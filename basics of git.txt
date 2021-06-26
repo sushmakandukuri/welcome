@@ -1,0 +1,14 @@
+BASICS OF GIT
+
+GIT is Used for :
+
+GIT is the most widely used open-source VCS (version control system) that allows you to track changes made to files. Companies and programmers usually use GIT to collaborate on developing software and applications.
+A GIT project consists of three major sections: the working directory, the staging area, and the git directory.
+
+How it is Used :
+The working directory is where you add, delete, and edit the files. Then, the changes are  indexed in the staging area. After you commit your changes, the snapshot of the changes will be saved into the git directory.
+
+How  is GIT used in  the life of a developer ?
+Git helps developers keep track of the history of their code files by storing them in different versions on its own server repository, i.e., GitHub.
+ Git has all the functionality, performance, security, and flexibility that most of the development teams and individual developers need.
+
